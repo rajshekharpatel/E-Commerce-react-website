@@ -1,3 +1,9 @@
+React E-Commerce Project — Beginner to Full App
+This repository contains the complete React e-commerce application built throughout the course. The project is designed to take you from zero React knowledge to building a real, production-style application using modern React patterns.
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
